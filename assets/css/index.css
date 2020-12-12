@@ -18,9 +18,18 @@
 	line-height: 1;
 	color: #ffa500;
 }
-.main-banner .banner-text h2, .main-banner .banner-text h2 span {
+.main-banner .banner-text h2 {
 	font-size: 45px;
 	color: #fff;
+	margin-bottom: 10px;
+	line-height: 1.3;
+	text-transform: capitalize;
+	padding: 10px 0;
+	font-weight: 600;
+}
+.main-banner .banner-text h2 .importantHeader{
+	font-size: 45px;
+	color: #ffa500;
 	margin-bottom: 10px;
 	line-height: 1.3;
 	text-transform: capitalize;
@@ -136,7 +145,7 @@
 /*About_Sec*/
 .about-left p {
 	color: #8e8e8e;
-	margin-top: 25px;
+	margin-top: 15px;
 }
 #about_us img {
 	width: 100%;
